@@ -10,3 +10,15 @@
 ***All bold and italic***  
 This is a <sub>subscript</sub> text  
 This is a <sup>superscript</sup> text  
+`Quoting Code` within a line  
+```
+this is code
+block
+```  
+The background color is `#ffffff` for light mode and `#000000` for dark mode.  
+This site was built using [GitHub Pages](https://pages.github.com/).  
+
+
+
+
+
