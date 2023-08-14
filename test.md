@@ -27,6 +27,9 @@ This site was built using [GitHub Pages](https://pages.github.com/).
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>  
 
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
 
 # Lists  
 ## Unordered Lists  
@@ -51,12 +54,10 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 # Mentioning people and teams
 @awaism551 What do you think about these updates?
 
-Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].
 
 [^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.  
   This is a second line.  
   
 
